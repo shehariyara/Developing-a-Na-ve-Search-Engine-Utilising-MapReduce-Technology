@@ -36,5 +36,5 @@ numpy
 spacy
 Ensure these dependencies are installed in your Python environment.
 
-Contributors
+Contributors: 
 SM ABDULLAH - SHEHARYAR BHATTI
